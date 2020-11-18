@@ -8,6 +8,7 @@
      </header>
 	<section id="Project_Background_info">
 		<p>This project involved html, css, and javscript in order to create a random passwrod generator.  Instead of using prompts to the screen for user input, I provided a GUI for the user to select paramters they want for their password.  This locks down options to prevent user input that could break the application.  In the event they forget to click a checkmark for the parameters, or select a number for the password length, the user will receive an alert stating they need to check at least one parameter.  Once generated, there is a button to copy the password to their clipboard. Overall, I am happy with the result of this applcation.  It works as intended.  </p>
+		<p>Access the applicaiton <a href="https://mcheering.github.io/RandomPasswordGenerator/">here<a></p>
 	</section>
 	<section id="using_application">
 		<h3 id="sub-heading">Landing on the Application Page</h3>
