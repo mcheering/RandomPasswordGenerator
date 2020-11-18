@@ -1,0 +1,10 @@
+#Password {
+    border-radius: 5px 0px 0px 5px;
+}
+
+#copy-button {
+    border-radius:  0px 5px 5px 0px;
+    color: white;
+    background-color: red;
+    border-color: red;
+}
