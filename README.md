@@ -4,8 +4,9 @@ This project involved html, css, and javscript in order to create a random passw
 
 
 WHen you land on the page, it will look like this: 
-![landing page](README.md images/Landing.png)
-
+<img src="README.md images/Landing.png"
+     alt="Landing Page"
+     style="float: left; width:"350px" />
 If you try and generate a password without entering a number between 8 and 128 and have at least one of the other parameters checked, you wil receive an error like this: 
 ![Error Message](README.md images/Error Message.png) 
 
